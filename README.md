@@ -41,9 +41,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deep0105-byte&theme=radical" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deep0105-byte&theme=react-dark" height="220"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep0105-byte&layout=compact&theme=radical&hide=css,html" height="150"/>
 </p>
 
