@@ -32,3 +32,23 @@
 - 🌱 Lifelong learner, always exploring the intersection of **hardware, software, and security**.  
 
 </details>
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deep0105-byte&show_icons=true&theme=radical&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deep0105-byte&theme=radical" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deep0105-byte&theme=react-dark" height="220"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep0105-byte&layout=compact&theme=radical&hide=css,html" height="150"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="github-user-contribution.svg" alt="Contribution Snake Animation" />
+</p>
