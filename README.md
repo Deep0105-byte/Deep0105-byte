@@ -17,7 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AF795,100:5B42F3&height=90&section=header&text=Welcome!&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
-# 👋 About Me
+## 👋 About Me
 
 <details>
 <summary>Click to expand!</summary>
@@ -32,6 +32,8 @@
 - 🌱 Lifelong learner, always exploring the intersection of **hardware, software, and security**.  
 
 </details>
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -52,3 +54,5 @@
 <p align="center">
   <img src="github-user-contribution.svg" alt="Contribution Snake Animation" />
 </p>
+
+---
